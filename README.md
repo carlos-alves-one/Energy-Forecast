@@ -35,4 +35,4 @@ Contributions to this project are welcome. Please follow the guidelines below:
 - Push your branch and open a pull request.
 
 ## License
-This project is licensed under the [MIT License]. Please see the LICENSE file for more details.
+This project is licensed under the MIT License. Please see the LICENSE file for more details.
